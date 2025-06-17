@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a MERN Stack Developer , Python Web Developer and an ML enthusiast.</h2>
+<h2 align="left">Hi 👋! I'm a MERN Stack Developer and ML enthusiast.</h2>
 
 ###
 
